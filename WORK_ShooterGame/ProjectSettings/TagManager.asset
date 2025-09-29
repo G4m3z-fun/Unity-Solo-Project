@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Killzone
+  - Hazard
+  - health
+  - Enemy
+  - BulletObject
+  - weapon
+  - pause
+  - ui_health
   layers:
   - Default
   - TransparentFX
